@@ -1,0 +1,27 @@
+{
+    "name": "food-redistribution-website",
+    "version": "1.0.0",
+    "description": "A website for redistributing leftover food from restaurants.",
+    "main": "script.js",
+    "scripts": {
+        "start": "node script.js",
+        "dev": "nodemon script.js"
+    },
+    "keywords": [
+        "food",
+        "redistribution",
+        "firebase",
+        "web",
+        "html",
+        "css"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "firebase": "^10.14.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.0"
+    }
+}
